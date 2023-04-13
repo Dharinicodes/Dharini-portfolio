@@ -16,6 +16,7 @@ body {
 hr {
   margin: 2rem 0rem;
 }
+
 /** container **/
 
 .container {
@@ -129,6 +130,11 @@ hr {
 
 .footer .link {
   color: white;
+}
+
+.footer .footer-header {
+  font-weight: bold;
+  font-size: large;
 }
 
 .footer ul {
