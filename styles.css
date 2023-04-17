@@ -1,6 +1,6 @@
 /** typography **/
 
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Laila&display=swap");
 
 :root {
   --primary-color: #9cc5e2;
@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Laila", sans-serif;
   margin: 0px;
 }
 
@@ -141,4 +141,16 @@ hr {
 
 .footer ul {
   padding-inline-start: 0px;
+}
+
+.footer .git-img {
+  max-width: 2rem;
+  display: inline;
+  margin: auto;
+}
+
+.footer .linkedin-img {
+  max-width: 2rem;
+  display: inline;
+  margin: auto;
 }
