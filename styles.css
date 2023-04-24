@@ -2,11 +2,13 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Laila&display=swap");
 
+
 :root {
   --primary-color: #9cc5e2;
   --darkgray-color: #6b7280;
   --off-white-color: #f4f4f5;
 }
+
 
 body {
   font-family: "Laila", sans-serif;
@@ -60,7 +62,8 @@ hr {
 /** Navigation **/
 
 .navigation {
-  background-color: var(--primary-color);
+  /**background-color: var(--primary-color);**/
+  background: linear-gradient(90deg, #00467f 0%, #a5cc82 100%);
   color: white;
   padding: 1rem;
   border-bottom-left-radius: 1rem;
