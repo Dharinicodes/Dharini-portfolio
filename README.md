@@ -1,2 +1,5 @@
 # Portfolio
-Building my own website to display my skills using html5
+This contains:
+
+1) About my projects
+2) About my blogs
